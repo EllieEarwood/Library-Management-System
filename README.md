@@ -31,7 +31,6 @@ mysql -u root -p LibraryDB < librarydb_backup.sql
 - Add a New Book
 - Borrow a Book
 - Return a Book
-- User Authentication System (Librarians & Members)
 
 **Author**
 

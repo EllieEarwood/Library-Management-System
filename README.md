@@ -8,7 +8,6 @@
 
 **Setup Instructions**
 
-- Open the Project
 - Open NetBeans IDE.
 - Click File > Open Project.
 - Select the LibraryManagementSystem folder.

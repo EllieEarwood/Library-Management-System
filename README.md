@@ -27,7 +27,7 @@ mysql -u root -p LibraryDB < librarydb_backup.sql
 
 **Features**
 
--View Available Books
+- View Available Books
 - Add a New Book
 - Borrow a Book
 - Return a Book

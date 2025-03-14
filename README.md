@@ -17,11 +17,13 @@
 
 - Start your MySQL server.
 - Open MySQL Workbench or Terminal and create the database:
-- CREATE DATABASE LibraryDB;
+  CREATE DATABASE LibraryDB;
 USE LibraryDB;
+
 -Import the database schema and initial data:
 mysql -u root -p LibraryDB < librarydb_backup.sql
-- Run the Project
+
+**Run the Project**
 - In NetBeans, right-click on the project and select Run.
 - Follow the menu options to interact with the Library Management System.
 

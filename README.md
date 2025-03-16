@@ -2,9 +2,9 @@
 
 **Technologies Used**  
 
-Apache NetBeans IDE
-MySQL Server 9.2.0 
-MySQL Connector/J 
+- Apache NetBeans IDE
+- MySQL Server 9.2.0 
+- MySQL Connector/J 
 
 **Setup Instructions**
 
@@ -25,21 +25,21 @@ Ensure librarydb_backup.sql is in the same folder as MySQL or specify the full p
 **Open the Project in NetBeans**
 
 Open NetBeans IDE.
-Click File > Open Project.
-Select the LibraryManagementSystem folder.
-Click Open Project.
+- Click File > Open Project.
+- Select the LibraryManagementSystem folder.
+- Click Open Project.
 
 **Run the Project**
 
-In NetBeans, right-click on the project and select Run.
-Follow the menu options to interact with the Library Management System.
+-  In NetBeans, right-click on the project and select Run.
+- Follow the menu options to interact with the Library Management System.
 
 **Features**
 
-View Available Books 
-Add a New Book 
-Borrow a Book 
-Return a Book 
+- View Available Books 
+- Add a New Book 
+-  Borrow a Book 
+- Return a Book 
 
 Author: Ellie Earwood
 Date: March 2025

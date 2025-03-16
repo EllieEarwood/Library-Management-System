@@ -20,7 +20,7 @@
 Import the database schema and initial data:
 
 mysql -u root -p LibraryDB < librarydb_backup.sql
-Ensure librarydb_backup.sql is in the same folder as MySQL or specify the full path
+- Ensure librarydb_backup.sql is in the same folder as MySQL or specify the full path
 
 **Open the Project in NetBeans**
 
